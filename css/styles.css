@@ -2,3 +2,19 @@ h3 {
   font: bold;
 }
 
+.jumbotron card-body {
+  text-align: center;
+}
+
+.jumbo-portals {
+  float: right;
+  text-align: initial;
+  margin: 20px;
+}
+
+.Gogh-Painting {
+  clear: both;
+  float: left;
+  width: 50%;
+  height: 50%;
+}
